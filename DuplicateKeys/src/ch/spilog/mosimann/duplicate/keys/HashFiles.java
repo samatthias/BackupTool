@@ -17,7 +17,6 @@ import java.sql.Statement;
 
 
 
-// Hi that's a comment!
 
 public class HashFiles extends SimpleFileVisitor<Path> {
 	
