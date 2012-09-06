@@ -21,7 +21,7 @@ import java.sql.Statement;
 public class HashFiles extends SimpleFileVisitor<Path> {
 	
 	
-	
+	// ok let's comment that
 	public HashFiles (){
 		this.openConnectionToDatabase();		
 	}
